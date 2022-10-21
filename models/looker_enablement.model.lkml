@@ -1,4 +1,4 @@
-# Define the database connection to be used for this model.
+
 connection: "looker-enablement"
 
 # include all the views
